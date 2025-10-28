@@ -1,5 +1,5 @@
 # KTLT-ECO-GROUP
-Lê Trần Khánh Linh
-Trịnh Nhất Mạnh
-Trần Hải Minh
-Nguyễn Thanh Trúc
+Lê Trần Khánh Linh \n
+Trịnh Nhất Mạnh \n
+Trần Hải Minh \n
+Nguyễn Thanh Trúc \n
